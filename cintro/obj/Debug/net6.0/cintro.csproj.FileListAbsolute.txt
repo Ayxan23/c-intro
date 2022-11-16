@@ -1,0 +1,15 @@
+C:\Users\Aykhan\OneDrive\Desktop\HT\cintro\cintro\bin\Debug\net6.0\cintro.exe
+C:\Users\Aykhan\OneDrive\Desktop\HT\cintro\cintro\bin\Debug\net6.0\cintro.deps.json
+C:\Users\Aykhan\OneDrive\Desktop\HT\cintro\cintro\bin\Debug\net6.0\cintro.runtimeconfig.json
+C:\Users\Aykhan\OneDrive\Desktop\HT\cintro\cintro\bin\Debug\net6.0\cintro.dll
+C:\Users\Aykhan\OneDrive\Desktop\HT\cintro\cintro\bin\Debug\net6.0\cintro.pdb
+C:\Users\Aykhan\OneDrive\Desktop\HT\cintro\cintro\obj\Debug\net6.0\cintro.csproj.AssemblyReference.cache
+C:\Users\Aykhan\OneDrive\Desktop\HT\cintro\cintro\obj\Debug\net6.0\cintro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aykhan\OneDrive\Desktop\HT\cintro\cintro\obj\Debug\net6.0\cintro.AssemblyInfoInputs.cache
+C:\Users\Aykhan\OneDrive\Desktop\HT\cintro\cintro\obj\Debug\net6.0\cintro.AssemblyInfo.cs
+C:\Users\Aykhan\OneDrive\Desktop\HT\cintro\cintro\obj\Debug\net6.0\cintro.csproj.CoreCompileInputs.cache
+C:\Users\Aykhan\OneDrive\Desktop\HT\cintro\cintro\obj\Debug\net6.0\cintro.dll
+C:\Users\Aykhan\OneDrive\Desktop\HT\cintro\cintro\obj\Debug\net6.0\refint\cintro.dll
+C:\Users\Aykhan\OneDrive\Desktop\HT\cintro\cintro\obj\Debug\net6.0\cintro.pdb
+C:\Users\Aykhan\OneDrive\Desktop\HT\cintro\cintro\obj\Debug\net6.0\cintro.genruntimeconfig.cache
+C:\Users\Aykhan\OneDrive\Desktop\HT\cintro\cintro\obj\Debug\net6.0\ref\cintro.dll
